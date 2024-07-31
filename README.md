@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Kevon! <br/><a href="https://github.com/kwilliams1112">Aspiring Security Analyst</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>File Intergrity Monitoring With Wazuh</b>
+  - [File Integrity Monitoring With Wazuh](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Building a Full Cyber Security Lab Suite In Proxmox</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+ 
 <!--
-**KWilliams1112/KWilliams1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
